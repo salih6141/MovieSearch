@@ -1,4 +1,6 @@
 import React from "react";
+import './App.css';
+import SearchIcon from './search.svg';
 import { useEffect } from "react"; 
 
 // 68afb008
