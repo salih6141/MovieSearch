@@ -7,7 +7,7 @@ import { useState } from "react";
 
 // 68afb008
 
-const API_URL = 'http://www.omdbapi.com?apikey=68afb008';
+const API_URL = 'https://www.omdbapi.com?apikey=68afb008';
 
 const movie1=
     {
